@@ -1,6 +1,6 @@
 token=NDgxNjE3ODkzNTkxODc1NTk1.DqRD6g.fcEM5PHvnQrWwxRd7nttfWzS_JU
 owner=464046823162511400
 prefix=T
-game=Tybe Thelp
+game=- ستفقدني كثيراً اعدك بذلك .
 stayinchannel=true
 songinstatus=false
